@@ -2,7 +2,7 @@
 
 How to use 
 
-//1- If not download os,urllib.request,requests,BeautifulSoup 
+1- If not download os,urllib.request,requests,BeautifulSoup 
 
 2- open terminal 
 
@@ -14,4 +14,4 @@ How to use
 
 6- If Instagram nick is entered: Enter photo file name 
 
-CardTibe#
+CardTibe//
